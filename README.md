@@ -1,4 +1,5 @@
 # ExamenJava
+He creado dos versiones del primer ejercicio, una de la mánera que veo más lógica y otra de la manera que creo que se pedía.
 ## Impresiones del Examen  
 El examen en sí no era dificil de realizar si se tenían los conceptos claros.   
 Uno de los problemas que veo, es que a pesar de que hemos ténido muchos ejercicios para practicar, algunos tipos de colecciones no los habiamos implementado en ninguno de los ejercicios propuestos.  
